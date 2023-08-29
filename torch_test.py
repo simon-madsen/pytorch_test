@@ -1,4 +1,5 @@
 
+import torch
 from torch import nn
 
 # Ensures correct device is selected
